@@ -69,7 +69,7 @@ proyecto_titanic_ml/
 1️⃣ Clonar el repositorio
 
 ```
-git clone https://github.com/TU_USUARIO/titanic-ml-pipeline.git
+git clone https://github.com/Laugalin/titanic-ml-pipeline.git
 ```
 
 2️⃣ Crear entorno virtual
